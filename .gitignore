@@ -1,0 +1,36 @@
+# Project
+postcommentApp.iml
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Idea
+.idea
+*.iml
+*.iws
+*.ipr
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Maven
+target
+
+# Build
+out
+build
+bin
+
+# Other
+*.log
+*.swp
+*.bak
+
+.idea/misc.xml
+.idea/vcs.xml
+
+.factorypath
